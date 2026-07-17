@@ -13,7 +13,7 @@ Torque gives repair shops a digital inspection workflow that builds a transparen
 - 📋 Digital inspection checklist for technicians
 - 📸 Photo/video evidence attached to each finding
 - 🔗 Shareable customer trust report
-- ✅ SMS-based approval flow for faster sign-off
+- ✅ SMS-based approval flow for faster sign-off.
  
 - 💳 (Phase 2) Integrated payments
   
